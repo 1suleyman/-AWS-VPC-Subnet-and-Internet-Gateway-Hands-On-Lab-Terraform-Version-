@@ -34,7 +34,7 @@ Welcome to my **AWS Networking Hands-On Lab**! In this project, I’m learning h
 
 ## 🏗️ Step 1: Create My VPC
 
-Check out the Terraform code here: [main.tf – VPC Section](./main.tf)
+Check out the Terraform code here: [main.tf – VPC Section](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-/blob/main/AWS%20VPC%2C%20Subnet%2C%20and%20Internet%20Gateway%20Hands-On%20Lab/main.tf)
 
 💡 **Tip:** `/16` gives me 65,536 IP addresses — plenty for future subnets.
 
@@ -42,7 +42,7 @@ Check out the Terraform code here: [main.tf – VPC Section](./main.tf)
 
 ## 🏘️ Step 2: Create My Subnet
 
-Check out the Terraform code here: [main.tf – Subnet Section](./main.tf)
+Check out the Terraform code here: [main.tf – Subnet Section](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-/blob/main/AWS%20VPC%2C%20Subnet%2C%20and%20Internet%20Gateway%20Hands-On%20Lab/main.tf)
 
 💡 **Tip:** `map_public_ip_on_launch = true` ensures that EC2 instances launched here automatically get public IPs.
 
@@ -50,7 +50,7 @@ Check out the Terraform code here: [main.tf – Subnet Section](./main.tf)
 
 ## 🌉 Step 3: Attach an Internet Gateway
 
-Check out the Terraform code here: [main.tf – Internet Gateway Section](./main.tf)
+Check out the Terraform code here: [main.tf – Internet Gateway Section](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-/blob/main/AWS%20VPC%2C%20Subnet%2C%20and%20Internet%20Gateway%20Hands-On%20Lab/main.tf)
 
 💡 **Tip:** This allows resources in my public subnet to communicate with the internet.
 
