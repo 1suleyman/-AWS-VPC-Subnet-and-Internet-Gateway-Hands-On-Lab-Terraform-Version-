@@ -100,8 +100,8 @@ Check out the Terraform code here: [main.tf – Internet Gateway Section](https:
 
 ## 🗂️ Terraform Files
 
-* [main.tf](./main.tf) – Core resources (VPC, subnet, IGW)
-* [variables.tf](./variables.tf) – Variables for region, CIDR blocks, and resource names
+* [main.tf](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-/blob/main/AWS%20VPC%2C%20Subnet%2C%20and%20Internet%20Gateway%20Hands-On%20Lab/main.tf) – Core resources (VPC, subnet, IGW)
+* [variables.tf](https://github.com/1suleyman/-AWS-VPC-Subnet-and-Internet-Gateway-Hands-On-Lab-Terraform-Version-/blob/main/AWS%20VPC%2C%20Subnet%2C%20and%20Internet%20Gateway%20Hands-On%20Lab/variables.tf) – Variables for region, CIDR blocks, and resource names
 
 💡 **Tip:** Using variables makes it easy to deploy in different regions or change CIDR blocks without touching the main code.
 
