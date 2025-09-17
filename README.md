@@ -2,6 +2,8 @@
 
 Welcome to my **AWS Networking Hands-On Lab**! In this project, I’m learning how to create a **VPC**, configure **subnets**, and attach an **internet gateway** using **Terraform**. This is a foundational skill for securely organizing and deploying resources in AWS.
 
+**Part 1 in my networking series**
+
 ---
 
 ## 🛠️ Project Overview
