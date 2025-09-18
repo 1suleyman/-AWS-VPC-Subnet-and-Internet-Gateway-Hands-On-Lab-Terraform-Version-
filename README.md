@@ -10,6 +10,8 @@ This project is a Terraform-powered version of my hands-on [AWS VPC, Subnet, and
 
 ## 🛠️ Project Overview
 
+<img width="989" height="811" alt="image" src="https://github.com/user-attachments/assets/be7cc47b-462b-4ce7-9192-0345fa92f4c2" />
+
 ### My Goals
 
 1. Create a custom **VPC** using Terraform.
